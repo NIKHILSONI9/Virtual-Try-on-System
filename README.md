@@ -1,8 +1,3 @@
-Great 👍
-Below is a **complete, professional `README.md`** you can directly copy-paste into your project root.
-It explains **what the project is**, **folder/file structure**, and **exact terminal commands** needed to run it.
-
-I’ve written it so **any recruiter / developer / evaluator** can run your project without asking questions.
 
 ---
 
